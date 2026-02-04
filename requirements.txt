@@ -3,4 +3,4 @@ plotly
 pandas
 numpy
 fastapi
-parselmouth
+praat-parselmouth
